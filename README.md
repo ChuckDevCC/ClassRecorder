@@ -13,12 +13,15 @@ go to settings in the bottom right corner -> Hotkeys to setup.
 PYTHON LIBRARIES YOU WILL NEED TO INSTALL:
 
 -pip
+
 -pip install pywin32
+
 -pip install schedule
 
 useful documentation:
 
 https://ss64.com/vb/sendkeys.html
+
 https://pypi.org/project/schedule/
 
 This is just a layout/guide for setup. This won't be perfect unless
